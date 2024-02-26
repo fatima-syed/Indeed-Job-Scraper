@@ -1,7 +1,7 @@
 # Python Pyppeteer Job Scraper
 
 ## Overview
-This Python script utilizes Pyppeteer, a Python port of Puppeteer, to scrape job listings from Indeed.com. It automates the process of searching for job listings based on provided criteria like job title and location, extracts relevant information from the listings, and stores it in a text file.
+This Python project utilizes Pyppeteer, a Python port of Puppeteer, to scrape job listings from Indeed.com. It automates the process of searching for job listings based on provided criteria like job title and location, extracts relevant information from the listings, and stores it in a text file.
 
 ## Installation
 To run this project, follow these steps:
