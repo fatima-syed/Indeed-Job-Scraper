@@ -1,5 +1,6 @@
-# Importing necessary libraries
+# importing necessary libraries
 import asyncio
+# (install pyppeteer before importing)
 from pyppeteer import launch
 
 
